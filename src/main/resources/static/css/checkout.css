@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.form-label{
+    width: 16%;
+}
+
+td#gtotal-label {
+    text-align: end;
+    padding-right: 20px !important;
+}
